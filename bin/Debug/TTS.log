@@ -1,0 +1,1404 @@
+[TTS, 0.000] langcode = 1024
+[TTS, 0.000] Try to load module.
+[TTS, 0.000] Try to load DLL C:\Program Files\SSRLab\Yakut\ASP.dll
+[TTS, 0.000] Load OK
+[TTS, 0.000] Try to load module.
+[TTS, 0.000] Try to load DLL C:\Program Files\SSRLab\Yakut\Langs\Yakut\LingModYAK.dll
+[LMYAK, 0.016] Init
+[TTS, 0.016] Load OK
+[LMYAK, 0.016] Init - OK
+[ASP, 0.016] Init
+	[ASP, 0.204] INI Loaded
+	[ASP, 0.204] Init Finished
+[TTS, 0.407] Set voice finished
+[SAPI, 0.407] Set voice (voice=Tolbon)
+[SAPI, 0.422] Processing speak
+[SAPI, 0.438] Linguistic thread started
+[SAPI, 0.438] Acoustic thread started
+[LMYAK, 0.438] Start processing text
+[LMYAK, 0.438] First text block (len=1, block= )
+[LMYAK, 0.438] First text block length after replacement (len=1)
+[LMYAK, 0.438] Finish processing text
+[TTS, 0.625] GetSyntagma (num=0)
+	[LMYAK, 0.625] Static
+[SAPI, 0.625] ASP thread stopped
+[SAPI, 0.641] Processing speak
+[SAPI, 0.641] Linguistic thread started
+[SAPI, 0.641] Acoustic thread started
+		[MetaInfo, 0.641] Adjusted new MetaInfo in position 5 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 0.641] Adjusted new MetaInfo in position 12 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 0.641] Start processing text
+[LMYAK, 0.641] First text block (len=15, block=Tolbon (Yakut) )
+[LMYAK, 0.641] First text block length after replacement (len=15)
+[LMYAK, 0.641] Created syntagma (num=0, text=толбо+н/, type=<C5>)
+[LMYAK, 0.641] Created syntagma (num=1, text=айэкю+т/, type=<P2>)
+[LMYAK, 0.641] Finish processing text
+[TTS, 0.844] GetSyntagma (num=0)
+	[LMYAK, 0.844] Static
+[LMYAK, 0.844] GetSyntagma (num=0, spell=толбо+н/, ph=T0,O22,>,L0,B0,O01,>,N0, type=C5, pcnt=0)
+	[TTS, 0.844] GetPreliminarySyntagma (num=0, type=C5)
+[LSSP, 0.844] SetSyntagma >,T0O22,>,L0,B0O01,>,N0, [C5]
+		[LSSP, 0.844] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 0.860] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 0.860] O22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 0.860] L0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 0.860] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 0.860] O01; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 0.860] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 0.860] #C5; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 0.860] Processed syntagma (num=0, datalen=25204)
+[SAPI, 0.860] ASP thread stopped
+[SAPI, 0.875] Processing speak
+[SAPI, 0.875] Linguistic thread started
+[SAPI, 0.875] Acoustic thread started
+[LMYAK, 0.875] Start processing text
+[LMYAK, 0.875] First text block (len=1, block= )
+[LMYAK, 0.875] First text block length after replacement (len=1)
+[LMYAK, 0.875] Finish processing text
+[TTS, 1.079] GetSyntagma (num=0)
+	[LMYAK, 1.079] Static
+[SAPI, 1.079] ASP thread stopped
+[TTS, 1.188] langcode = 1024
+[TTS, 1.188] Try to load module.
+[TTS, 1.188] Try to load DLL C:\Program Files\SSRLab\Yakut\ASP.dll
+[TTS, 1.188] Load OK
+[TTS, 1.188] Try to load module.
+[TTS, 1.188] Try to load DLL C:\Program Files\SSRLab\Yakut\Langs\Yakut\LingModYAK.dll
+[LMYAK, 1.188] Init
+[TTS, 1.188] Load OK
+[LMYAK, 1.188] Init - OK
+[ASP, 1.188] Init
+	[ASP, 1.391] INI Loaded
+	[ASP, 1.391] Init Finished
+[TTS, 1.579] Set voice finished
+[SAPI, 1.579] Set voice (voice=Tolbon)
+[SAPI, 1.594] Processing speak
+[SAPI, 1.594] Linguistic thread started
+[SAPI, 1.594] Acoustic thread started
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 2 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 15 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 25 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 33 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 42 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 45 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 50 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 54 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 1.594] Adjusted new MetaInfo in position 62 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 1.594] Start processing text
+[LMYAK, 1.594] First text block (len=64, block=Вас приветствует про...)
+[LMYAK, 1.594] First text block length after replacement (len=64)
+[LMYAK, 1.610] Created syntagma (num=0, text=ва+с/приветствуе+т/, type=<E2_1>)
+[LMYAK, 1.610] Created syntagma (num=1, text=программа+/дикта+нт/, type=<E2>)
+[LMYAK, 1.610] Finish processing text
+[TTS, 1.797] GetSyntagma (num=0)
+	[LMYAK, 1.797] Static
+[LMYAK, 1.797] GetSyntagma (num=0, spell=ва+с/приветствуе+т/, ph=B0,A01,>,S0,/,P0,R0,I22,>,B0,J'0,E24,>,T0,S0,T0,B0,U21,>,J'0,E04,>,T0, type=E2_1, pcnt=0)
+	[TTS, 1.797] GetPreliminarySyntagma (num=0, type=E2_1)
+[LSSP, 1.797] SetSyntagma >,B0A01,>,S0,/,P0,R0I22,>,B0,J'0E24,>,T0,S0,T0,B0U21,>,J'0E04,>,T0, [E2_1]
+		[LSSP, 1.797] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 1.813] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.813] A01; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.813] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.813] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.813] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.813] I22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.813] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.829] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.829] E24; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.829] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.829] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.829] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.844] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.844] U21; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.844] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.844] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.844] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 1.844] #E2_1; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 1.844] Processed syntagma (num=0, datalen=38350)
+	[SAPI, 1.844] Stop event passed
+	[SAPI, 3.063] Writed
+	[SAPI, 3.063] Finished
+[TTS, 3.063] GetSyntagma (num=1)
+	[LMYAK, 3.063] Static
+[LMYAK, 3.063] GetSyntagma (num=1, spell=программа+/дикта+нт/, ph=P0,R0,O22,>,G0,R0,A22,>,M1,A01,>,/,D0,I22,>,K0,T0,A02,>,N0,T0, type=E2, pcnt=0)
+	[TTS, 3.063] GetPreliminarySyntagma (num=1, type=E2)
+[LSSP, 3.063] SetSyntagma >,P0,R0O22,>,G0,R0A22,>,M1,A01,>,/,D0I22,>,K0,T0A02,>,N0,T0, [E2]
+		[LSSP, 3.063] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 3.063] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.063] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.063] O22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.063] G0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.079] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.079] A22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.079] M1; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.079] A01; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.094] D0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.094] I22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.094] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.094] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.094] A02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.110] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.110] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 3.110] #E2; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 3.110] Processed syntagma (num=1, datalen=53404)
+	[SAPI, 3.110] Stop event passed
+	[SAPI, 5.516] Writed
+	[SAPI, 5.516] Finished
+[TTS, 5.516] GetSyntagma (num=2)
+	[LMYAK, 5.516] Static
+[LMYAK, 5.516] GetSyntagma (num=2, spell=нажмите+/э+ф/, ph=N0,A22,>,DZ'0,M0,I21,>,T0,J'0,E04,>,/,E00,>,P0, type=C01, pcnt=0)
+	[TTS, 5.516] GetPreliminarySyntagma (num=2, type=C01)
+[LSSP, 5.516] SetSyntagma >,N0A22,>,DZ'0,M0I21,>,T0,J'0E04,>,/,E00,>,P0, [C01]
+		[LSSP, 5.516] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 5.516] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.516] A22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.516] DZ'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.532] M0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.532] I21; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.532] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.532] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.532] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.532] E00; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.547] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 5.547] #C01; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 5.547] Processed syntagma (num=2, datalen=20694)
+	[SAPI, 5.547] Stop event passed
+	[SAPI, 6.407] Writed
+	[SAPI, 6.407] Finished
+[TTS, 6.407] GetSyntagma (num=3)
+	[LMYAK, 6.407] Static
+[LMYAK, 6.407] GetSyntagma (num=3, spell=оди+н/для+/справки+/, ph=O20,>,D0,I02,>,N0,/,D0,L0,J'0,A04,>,/,S0,P0,R0,A22,>,B0,K0,I03,>, type=C3, pcnt=0)
+	[TTS, 6.407] GetPreliminarySyntagma (num=3, type=C3)
+[LSSP, 6.422] SetSyntagma >,O20,>,D0I02,>,N0,/,D0,L0,J'0A04,>,/,S0,P0,R0A22,>,B0,K0I03,>, [C3]
+		[LSSP, 6.422] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 6.422] O20; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.422] D0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.422] I02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.422] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.422] D0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.438] L0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.438] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.438] A04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.438] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.438] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.454] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.454] A22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.454] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.454] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.454] I03; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 6.454] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 6.454] Processed syntagma (num=3, datalen=34475)
+	[SAPI, 6.454] Stop event passed
+	[SAPI, 8.016] Writed
+	[SAPI, 8.016] Finished
+[TTS, 8.016] GetSyntagma (num=4)
+	[LMYAK, 8.016] Static
+[SAPI, 8.016] ASP thread stopped
+[SAPI, 8.532] Processing speak
+[SAPI, 8.532] Linguistic thread started
+[SAPI, 8.532] Acoustic thread started
+[LMYAK, 8.532] Start processing text
+[LMYAK, 8.532] First text block (len=1, block= )
+[LMYAK, 8.532] First text block length after replacement (len=1)
+[LMYAK, 8.532] Finish processing text
+[TTS, 8.735] GetSyntagma (num=0)
+	[LMYAK, 8.735] Static
+[SAPI, 8.735] ASP thread stopped
+[SAPI, 8.735] Processing speak
+[SAPI, 8.750] Linguistic thread started
+[SAPI, 8.750] Acoustic thread started
+		[MetaInfo, 8.750] Adjusted new MetaInfo in position 3 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 8.750] Start processing text
+[LMYAK, 8.750] First text block (len=6, block=Ввод! )
+[LMYAK, 8.750] First text block length after replacement (len=6)
+[LMYAK, 8.750] Created syntagma (num=0, text=вво+д/, type=<E2>)
+[LMYAK, 8.750] Finish processing text
+[TTS, 8.954] GetSyntagma (num=0)
+	[LMYAK, 8.954] Static
+[LMYAK, 8.954] GetSyntagma (num=0, spell=вво+д/, ph=B1,O01,>,D0, type=E2, pcnt=0)
+	[TTS, 8.954] GetPreliminarySyntagma (num=0, type=E2)
+[LSSP, 8.954] SetSyntagma >,B1,O01,>,D0, [E2]
+		[LSSP, 8.954] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 8.954] O01; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 8.954] D0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 8.969] #E2; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 8.969] Processed syntagma (num=0, datalen=22263)
+	[SAPI, 8.969] Stop event passed
+	[SAPI, 9.485] Writed
+	[SAPI, 9.485] Finished
+[TTS, 9.485] GetSyntagma (num=1)
+	[LMYAK, 9.485] Static
+[SAPI, 9.485] ASP thread stopped
+[SAPI, 16.813] Processing speak
+[SAPI, 16.813] Linguistic thread started
+[SAPI, 16.813] Acoustic thread started
+[LMYAK, 16.813] Start processing text
+[LMYAK, 16.813] First text block (len=1, block= )
+[LMYAK, 16.813] First text block length after replacement (len=1)
+[LMYAK, 16.813] Finish processing text
+[TTS, 17.016] GetSyntagma (num=0)
+	[LMYAK, 17.016] Static
+[SAPI, 17.016] ASP thread stopped
+[SAPI, 17.016] Processing speak
+[SAPI, 17.032] Linguistic thread started
+[SAPI, 17.032] Acoustic thread started
+[LMYAK, 17.032] Start processing text
+[LMYAK, 17.032] First text block (len=0, block=)
+[LMYAK, 17.032] First text block length after replacement (len=0)
+[LMYAK, 17.032] Finish processing text
+[TTS, 17.235] GetSyntagma (num=0)
+	[LMYAK, 17.235] Static
+[SAPI, 17.235] ASP thread stopped
+[SAPI, 17.235] Processing speak
+[SAPI, 17.250] Linguistic thread started
+[SAPI, 17.250] Acoustic thread started
+		[MetaInfo, 17.250] Adjusted new MetaInfo in position 0 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 17.250] Start processing text
+[LMYAK, 17.250] First text block (len=2, block=б )
+[LMYAK, 17.250] First text block length after replacement (len=2)
+[LMYAK, 17.250] Finish processing text
+[TTS, 17.454] GetSyntagma (num=0)
+	[LMYAK, 17.454] Static
+[LMYAK, 17.454] GetSyntagma (num=0, spell=б/, ph=B0, type=C3, pcnt=0)
+	[TTS, 17.454] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 17.454] SetSyntagma >,B0, [C3]
+		[LSSP, 17.454] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 17.454] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 17.454] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 17.454] Processed syntagma (num=0, datalen=6110)
+	[SAPI, 17.454] Stop event passed
+	[SAPI, 17.454] Writed
+	[SAPI, 17.454] Finished
+[TTS, 17.454] GetSyntagma (num=1)
+	[LMYAK, 17.454] Static
+[SAPI, 17.454] ASP thread stopped
+[SAPI, 17.454] Processing speak
+[SAPI, 17.469] Linguistic thread started
+[SAPI, 17.469] Acoustic thread started
+[LMYAK, 17.469] Start processing text
+[LMYAK, 17.469] First text block (len=0, block=)
+[LMYAK, 17.469] First text block length after replacement (len=0)
+[LMYAK, 17.469] Finish processing text
+[TTS, 17.657] GetSyntagma (num=0)
+	[LMYAK, 17.657] Static
+[SAPI, 17.657] ASP thread stopped
+[SAPI, 18.985] Processing speak
+[SAPI, 19.000] Linguistic thread started
+[SAPI, 19.000] Acoustic thread started
+[LMYAK, 19.000] Start processing text
+[LMYAK, 19.000] First text block (len=1, block= )
+[LMYAK, 19.000] First text block length after replacement (len=1)
+[LMYAK, 19.000] Finish processing text
+[TTS, 19.204] GetSyntagma (num=0)
+	[LMYAK, 19.204] Static
+[SAPI, 19.204] ASP thread stopped
+[SAPI, 19.204] Processing speak
+[SAPI, 19.219] Linguistic thread started
+[SAPI, 19.219] Acoustic thread started
+[LMYAK, 19.219] Start processing text
+[LMYAK, 19.219] First text block (len=0, block=)
+[LMYAK, 19.219] First text block length after replacement (len=0)
+[LMYAK, 19.219] Finish processing text
+[TTS, 19.422] GetSyntagma (num=0)
+	[LMYAK, 19.422] Static
+[SAPI, 19.422] ASP thread stopped
+[SAPI, 19.422] Processing speak
+[SAPI, 19.438] Linguistic thread started
+[SAPI, 19.438] Acoustic thread started
+[LMYAK, 19.438] Start processing text
+[LMYAK, 19.438] First text block (len=0, block=)
+[LMYAK, 19.438] First text block length after replacement (len=0)
+[LMYAK, 19.438] Finish processing text
+[TTS, 19.625] GetSyntagma (num=0)
+	[LMYAK, 19.625] Static
+[SAPI, 19.625] ASP thread stopped
+[SAPI, 19.625] Processing speak
+[SAPI, 19.641] Linguistic thread started
+[SAPI, 19.641] Acoustic thread started
+[LMYAK, 19.641] Start processing text
+[LMYAK, 19.641] First text block (len=0, block=)
+[LMYAK, 19.641] First text block length after replacement (len=0)
+[LMYAK, 19.641] Finish processing text
+[TTS, 19.844] GetSyntagma (num=0)
+	[LMYAK, 19.844] Static
+[SAPI, 19.844] ASP thread stopped
+[SAPI, 23.875] Processing speak
+[SAPI, 23.875] Linguistic thread started
+[SAPI, 23.875] Acoustic thread started
+[LMYAK, 23.875] Start processing text
+[LMYAK, 23.875] First text block (len=1, block= )
+[LMYAK, 23.875] First text block length after replacement (len=1)
+[LMYAK, 23.875] Finish processing text
+[TTS, 24.079] GetSyntagma (num=0)
+	[LMYAK, 24.079] Static
+[SAPI, 24.079] ASP thread stopped
+[SAPI, 24.079] Processing speak
+[SAPI, 24.094] Linguistic thread started
+[SAPI, 24.094] Acoustic thread started
+[LMYAK, 24.094] Start processing text
+[LMYAK, 24.094] First text block (len=0, block=)
+[LMYAK, 24.094] First text block length after replacement (len=0)
+[LMYAK, 24.094] Finish processing text
+[TTS, 24.297] GetSyntagma (num=0)
+	[LMYAK, 24.297] Static
+[SAPI, 24.297] ASP thread stopped
+[SAPI, 24.297] Processing speak
+[SAPI, 24.313] Linguistic thread started
+[SAPI, 24.313] Acoustic thread started
+		[MetaInfo, 24.313] Adjusted new MetaInfo in position 0 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 24.313] Start processing text
+[LMYAK, 24.313] First text block (len=2, block=ю )
+[LMYAK, 24.313] First text block length after replacement (len=2)
+[LMYAK, 24.313] Finish processing text
+[TTS, 24.516] GetSyntagma (num=0)
+	[LMYAK, 24.516] Static
+[LMYAK, 24.516] GetSyntagma (num=0, spell=ю+/, ph=J'0,U04,>, type=C3, pcnt=0)
+	[TTS, 24.516] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 24.516] SetSyntagma >,J'0U04,>, [C3]
+		[LSSP, 24.516] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 24.516] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 24.516] U04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 24.516] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 24.516] Processed syntagma (num=0, datalen=7210)
+	[SAPI, 24.516] Stop event passed
+	[SAPI, 24.516] Writed
+	[SAPI, 24.516] Finished
+[TTS, 24.516] GetSyntagma (num=1)
+	[LMYAK, 24.516] Static
+[SAPI, 24.516] ASP thread stopped
+[SAPI, 24.516] Processing speak
+[SAPI, 24.532] Linguistic thread started
+[SAPI, 24.532] Acoustic thread started
+[LMYAK, 24.532] Start processing text
+[LMYAK, 24.532] First text block (len=0, block=)
+[LMYAK, 24.532] First text block length after replacement (len=0)
+[LMYAK, 24.532] Finish processing text
+[TTS, 24.735] GetSyntagma (num=0)
+	[LMYAK, 24.735] Static
+[SAPI, 24.735] ASP thread stopped
+[SAPI, 25.985] Processing speak
+[SAPI, 26.000] Linguistic thread started
+[SAPI, 26.000] Acoustic thread started
+[LMYAK, 26.000] Start processing text
+[LMYAK, 26.000] First text block (len=1, block= )
+[LMYAK, 26.000] First text block length after replacement (len=1)
+[LMYAK, 26.000] Finish processing text
+[TTS, 26.204] GetSyntagma (num=0)
+	[LMYAK, 26.204] Static
+[SAPI, 26.204] ASP thread stopped
+[SAPI, 26.204] Processing speak
+[SAPI, 26.219] Linguistic thread started
+[SAPI, 26.219] Acoustic thread started
+[LMYAK, 26.219] Start processing text
+[LMYAK, 26.219] First text block (len=0, block=)
+[LMYAK, 26.219] First text block length after replacement (len=0)
+[LMYAK, 26.219] Finish processing text
+[TTS, 26.407] GetSyntagma (num=0)
+	[LMYAK, 26.407] Static
+[SAPI, 26.407] ASP thread stopped
+[SAPI, 26.407] Processing speak
+[SAPI, 26.422] Linguistic thread started
+[SAPI, 26.422] Acoustic thread started
+[LMYAK, 26.422] Start processing text
+[LMYAK, 26.422] First text block (len=0, block=)
+[LMYAK, 26.422] First text block length after replacement (len=0)
+[LMYAK, 26.422] Finish processing text
+[TTS, 26.625] GetSyntagma (num=0)
+	[LMYAK, 26.625] Static
+[SAPI, 26.625] ASP thread stopped
+[SAPI, 26.625] Processing speak
+[SAPI, 26.641] Linguistic thread started
+[SAPI, 26.641] Acoustic thread started
+[LMYAK, 26.641] Start processing text
+[LMYAK, 26.641] First text block (len=0, block=)
+[LMYAK, 26.641] First text block length after replacement (len=0)
+[LMYAK, 26.641] Finish processing text
+[TTS, 26.844] GetSyntagma (num=0)
+	[LMYAK, 26.844] Static
+[SAPI, 26.844] ASP thread stopped
+[SAPI, 26.985] Processing speak
+[SAPI, 27.000] Linguistic thread started
+[SAPI, 27.000] Acoustic thread started
+[LMYAK, 27.000] Start processing text
+[LMYAK, 27.000] First text block (len=1, block= )
+[LMYAK, 27.000] First text block length after replacement (len=1)
+[LMYAK, 27.000] Finish processing text
+[TTS, 27.204] GetSyntagma (num=0)
+	[LMYAK, 27.204] Static
+[SAPI, 27.204] ASP thread stopped
+[SAPI, 27.204] Processing speak
+[SAPI, 27.219] Linguistic thread started
+[SAPI, 27.219] Acoustic thread started
+[LMYAK, 27.219] Start processing text
+[LMYAK, 27.219] First text block (len=0, block=)
+[LMYAK, 27.219] First text block length after replacement (len=0)
+[LMYAK, 27.219] Finish processing text
+[TTS, 27.422] GetSyntagma (num=0)
+	[LMYAK, 27.422] Static
+[SAPI, 27.422] ASP thread stopped
+[SAPI, 27.422] Processing speak
+[SAPI, 27.422] Linguistic thread started
+[SAPI, 27.422] Acoustic thread started
+[LMYAK, 27.422] Start processing text
+[LMYAK, 27.422] First text block (len=2, block=. )
+[LMYAK, 27.422] First text block length after replacement (len=2)
+[LMYAK, 27.422] Finish processing text
+[TTS, 27.625] GetSyntagma (num=0)
+	[LMYAK, 27.625] Static
+[SAPI, 27.625] ASP thread stopped
+[SAPI, 27.625] Processing speak
+[SAPI, 27.641] Linguistic thread started
+[SAPI, 27.641] Acoustic thread started
+[LMYAK, 27.641] Start processing text
+[LMYAK, 27.641] First text block (len=0, block=)
+[LMYAK, 27.641] First text block length after replacement (len=0)
+[LMYAK, 27.641] Finish processing text
+[TTS, 27.844] GetSyntagma (num=0)
+	[LMYAK, 27.844] Static
+[SAPI, 27.844] ASP thread stopped
+[SAPI, 30.532] Processing speak
+[SAPI, 30.532] Linguistic thread started
+[SAPI, 30.532] Acoustic thread started
+[LMYAK, 30.532] Start processing text
+[LMYAK, 30.532] First text block (len=1, block= )
+[LMYAK, 30.532] First text block length after replacement (len=1)
+[LMYAK, 30.532] Finish processing text
+[TTS, 30.735] GetSyntagma (num=0)
+	[LMYAK, 30.735] Static
+[SAPI, 30.735] ASP thread stopped
+[SAPI, 30.735] Processing speak
+[SAPI, 30.750] Linguistic thread started
+[SAPI, 30.750] Acoustic thread started
+		[MetaInfo, 30.750] Adjusted new MetaInfo in position 4 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 30.750] Start processing text
+[LMYAK, 30.750] First text block (len=9, block=точка+.  )
+[LMYAK, 30.750] First text block length after replacement (len=9)
+[LMYAK, 30.750] Created syntagma (num=0, text=точка+/, type=<P4>)
+[LMYAK, 30.750] Finish processing text
+[TTS, 30.954] GetSyntagma (num=0)
+	[LMYAK, 30.954] Static
+[LMYAK, 30.954] GetSyntagma (num=0, spell=точка+/, ph=T0,O22,>,CH'0,K0,A03,>, type=P4, pcnt=0)
+	[TTS, 30.954] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 30.954] SetSyntagma >,T0O22,>,CH'0,K0A03,>, [P4]
+		[LSSP, 30.954] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 30.954] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 30.954] O22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 30.969] CH'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 30.969] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 30.969] A03; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 30.969] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 30.969] Processed syntagma (num=0, datalen=41485)
+	[SAPI, 30.969] Stop event passed
+	[SAPI, 32.157] Writed
+	[SAPI, 32.157] Finished
+[TTS, 32.157] GetSyntagma (num=1)
+	[LMYAK, 32.157] Static
+[SAPI, 32.157] ASP thread stopped
+[SAPI, 32.157] Processing speak
+[SAPI, 32.172] Linguistic thread started
+[SAPI, 32.172] Acoustic thread started
+[LMYAK, 32.172] Start processing text
+[LMYAK, 32.172] First text block (len=1, block= )
+[LMYAK, 32.172] First text block length after replacement (len=1)
+[LMYAK, 32.172] Finish processing text
+[TTS, 32.375] GetSyntagma (num=0)
+	[LMYAK, 32.375] Static
+[SAPI, 32.375] ASP thread stopped
+[SAPI, 32.375] Processing speak
+[SAPI, 32.391] Linguistic thread started
+[SAPI, 32.391] Acoustic thread started
+		[MetaInfo, 32.391] Adjusted new MetaInfo in position 4 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 32.391] Adjusted new MetaInfo in position 11 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 32.391] Start processing text
+[LMYAK, 32.391] First text block (len=13, block=Конец текста )
+[LMYAK, 32.391] First text block length after replacement (len=13)
+[LMYAK, 32.391] Finish processing text
+[TTS, 32.594] GetSyntagma (num=0)
+	[LMYAK, 32.594] Static
+[LMYAK, 32.594] GetSyntagma (num=0, spell=коне+ц/текста+/, ph=K0,O23,>,N0,J'0,E04,>,CH'0,/,T0,J'0,E24,>,K0,S0,T0,A02,>, type=C3, pcnt=0)
+	[TTS, 32.594] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 32.594] SetSyntagma >,K0O23,>,N0,J'0E04,>,CH'0,/,T0,J'0E24,>,K0,S0,T0A02,>, [C3]
+		[LSSP, 32.594] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 32.594] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.610] O23; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.610] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.625] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.625] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.625] CH'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.625] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.625] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.625] E24; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.641] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.641] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.641] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.641] A02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 32.641] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 32.641] Processed syntagma (num=0, datalen=36077)
+	[SAPI, 32.641] Stop event passed
+	[SAPI, 33.766] Writed
+	[SAPI, 33.766] Finished
+[TTS, 33.766] GetSyntagma (num=1)
+	[LMYAK, 33.766] Static
+[SAPI, 33.766] ASP thread stopped
+[SAPI, 33.797] Processing speak
+[SAPI, 33.813] Linguistic thread started
+[SAPI, 33.813] Acoustic thread started
+[LMYAK, 33.813] Start processing text
+[LMYAK, 33.813] First text block (len=1, block= )
+[LMYAK, 33.813] First text block length after replacement (len=1)
+[LMYAK, 33.813] Finish processing text
+[TTS, 34.016] GetSyntagma (num=0)
+	[LMYAK, 34.016] Static
+[SAPI, 34.016] ASP thread stopped
+[SAPI, 34.016] Processing speak
+[SAPI, 34.032] Linguistic thread started
+[SAPI, 34.032] Acoustic thread started
+[LMYAK, 34.032] Start processing text
+[LMYAK, 34.032] First text block (len=0, block=)
+[LMYAK, 34.032] First text block length after replacement (len=0)
+[LMYAK, 34.032] Finish processing text
+[TTS, 34.235] GetSyntagma (num=0)
+	[LMYAK, 34.235] Static
+[SAPI, 34.235] ASP thread stopped
+[SAPI, 34.235] Processing speak
+[SAPI, 34.235] Linguistic thread started
+[SAPI, 34.250] Acoustic thread started
+[LMYAK, 34.250] Start processing text
+[LMYAK, 34.250] First text block (len=0, block=)
+[LMYAK, 34.250] First text block length after replacement (len=0)
+[LMYAK, 34.250] Finish processing text
+[TTS, 34.438] GetSyntagma (num=0)
+	[LMYAK, 34.438] Static
+[SAPI, 34.438] ASP thread stopped
+[SAPI, 34.438] Processing speak
+[SAPI, 34.454] Linguistic thread started
+[SAPI, 34.454] Acoustic thread started
+[LMYAK, 34.454] Start processing text
+[LMYAK, 34.454] First text block (len=0, block=)
+[LMYAK, 34.454] First text block length after replacement (len=0)
+[LMYAK, 34.454] Finish processing text
+[TTS, 34.657] GetSyntagma (num=0)
+	[LMYAK, 34.657] Static
+[SAPI, 34.657] ASP thread stopped
+[SAPI, 42.860] Processing speak
+[SAPI, 42.860] Linguistic thread started
+[SAPI, 42.860] Acoustic thread started
+[LMYAK, 42.860] Start processing text
+[LMYAK, 42.860] First text block (len=1, block= )
+[LMYAK, 42.860] First text block length after replacement (len=1)
+[LMYAK, 42.860] Finish processing text
+[TTS, 43.063] GetSyntagma (num=0)
+	[LMYAK, 43.063] Static
+[SAPI, 43.063] ASP thread stopped
+[SAPI, 43.063] Processing speak
+[SAPI, 43.079] Linguistic thread started
+[SAPI, 43.079] Acoustic thread started
+[LMYAK, 43.079] Start processing text
+[LMYAK, 43.079] First text block (len=0, block=)
+[LMYAK, 43.079] First text block length after replacement (len=0)
+[LMYAK, 43.079] Finish processing text
+[TTS, 43.282] GetSyntagma (num=0)
+	[LMYAK, 43.282] Static
+[SAPI, 43.282] ASP thread stopped
+[SAPI, 43.282] Processing speak
+[SAPI, 43.297] Linguistic thread started
+[SAPI, 43.297] Acoustic thread started
+[LMYAK, 43.297] Start processing text
+[LMYAK, 43.297] First text block (len=0, block=)
+[LMYAK, 43.297] First text block length after replacement (len=0)
+[LMYAK, 43.297] Finish processing text
+[TTS, 43.500] GetSyntagma (num=0)
+	[LMYAK, 43.500] Static
+[SAPI, 43.500] ASP thread stopped
+[SAPI, 43.500] Processing speak
+[SAPI, 43.500] Linguistic thread started
+[SAPI, 43.500] Acoustic thread started
+[LMYAK, 43.500] Start processing text
+[LMYAK, 43.500] First text block (len=0, block=)
+[LMYAK, 43.500] First text block length after replacement (len=0)
+[LMYAK, 43.500] Finish processing text
+[TTS, 43.704] GetSyntagma (num=0)
+	[LMYAK, 43.704] Static
+[SAPI, 43.704] ASP thread stopped
+[SAPI, 45.657] Processing speak
+[SAPI, 45.672] Linguistic thread started
+[SAPI, 45.672] Acoustic thread started
+[LMYAK, 45.672] Start processing text
+[LMYAK, 45.672] First text block (len=1, block= )
+[LMYAK, 45.672] First text block length after replacement (len=1)
+[LMYAK, 45.672] Finish processing text
+[TTS, 45.875] GetSyntagma (num=0)
+	[LMYAK, 45.875] Static
+[SAPI, 45.875] ASP thread stopped
+[SAPI, 45.875] Processing speak
+[SAPI, 45.875] Linguistic thread started
+[SAPI, 45.875] Acoustic thread started
+		[MetaInfo, 45.891] Adjusted new MetaInfo in position 1 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 45.891] Start processing text
+[LMYAK, 45.891] First text block (len=6, block=ђы=.  )
+[LMYAK, 45.891] First text block length after replacement (len=6)
+[LMYAK, 45.891] Created syntagma (num=0, text=ђы+/, type=<P4>)
+[LMYAK, 45.891] Finish processing text
+[TTS, 46.079] GetSyntagma (num=0)
+	[LMYAK, 46.079] Static
+[LMYAK, 46.079] GetSyntagma (num=0, spell=ђы+/, ph=GH0,Y03,>, type=P4, pcnt=0)
+	[TTS, 46.079] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 46.079] SetSyntagma >,GH0Y03,>, [P4]
+		[LSSP, 46.079] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 46.094] GH0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 46.094] Y03; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 46.094] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 46.094] Processed syntagma (num=0, datalen=28252)
+	[SAPI, 46.094] Stop event passed
+	[SAPI, 46.860] Writed
+	[SAPI, 46.860] Finished
+[TTS, 46.860] GetSyntagma (num=1)
+	[LMYAK, 46.860] Static
+[SAPI, 46.860] ASP thread stopped
+[SAPI, 47.125] Processing speak
+[SAPI, 47.141] Linguistic thread started
+[SAPI, 47.141] Acoustic thread started
+[LMYAK, 47.141] Start processing text
+[LMYAK, 47.141] First text block (len=1, block= )
+[LMYAK, 47.141] First text block length after replacement (len=1)
+[LMYAK, 47.141] Finish processing text
+[TTS, 47.329] GetSyntagma (num=0)
+	[LMYAK, 47.329] Static
+[SAPI, 47.329] ASP thread stopped
+[SAPI, 47.344] Processing speak
+[SAPI, 47.344] Linguistic thread started
+[SAPI, 47.344] Acoustic thread started
+		[MetaInfo, 47.344] Adjusted new MetaInfo in position 4 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 47.344] Adjusted new MetaInfo in position 11 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 47.344] Start processing text
+[LMYAK, 47.344] First text block (len=13, block=Конец текста )
+[LMYAK, 47.344] First text block length after replacement (len=13)
+[LMYAK, 47.344] Finish processing text
+[TTS, 47.547] GetSyntagma (num=0)
+	[LMYAK, 47.547] Static
+[LMYAK, 47.547] GetSyntagma (num=0, spell=коне+ц/текста+/, ph=K0,O23,>,N0,J'0,E04,>,CH'0,/,T0,J'0,E24,>,K0,S0,T0,A02,>, type=C3, pcnt=0)
+	[TTS, 47.547] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 47.547] SetSyntagma >,K0O23,>,N0,J'0E04,>,CH'0,/,T0,J'0E24,>,K0,S0,T0A02,>, [C3]
+		[LSSP, 47.547] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 47.563] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.563] O23; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.563] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.563] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.563] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.563] CH'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.579] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.579] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.579] E24; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.579] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.579] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.579] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.594] A02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 47.594] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 47.594] Processed syntagma (num=0, datalen=36077)
+	[SAPI, 47.594] Stop event passed
+	[SAPI, 48.704] Writed
+	[SAPI, 48.704] Finished
+[TTS, 48.704] GetSyntagma (num=1)
+	[LMYAK, 48.704] Static
+[SAPI, 48.704] ASP thread stopped
+[SAPI, 48.797] Processing speak
+[SAPI, 48.813] Linguistic thread started
+[SAPI, 48.813] Acoustic thread started
+[LMYAK, 48.813] Start processing text
+[LMYAK, 48.813] First text block (len=1, block= )
+[LMYAK, 48.813] First text block length after replacement (len=1)
+[LMYAK, 48.813] Finish processing text
+[TTS, 49.016] GetSyntagma (num=0)
+	[LMYAK, 49.016] Static
+[SAPI, 49.016] ASP thread stopped
+[SAPI, 49.016] Processing speak
+[SAPI, 49.032] Linguistic thread started
+[SAPI, 49.032] Acoustic thread started
+		[MetaInfo, 49.032] Adjusted new MetaInfo in position 1 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 49.032] Start processing text
+[LMYAK, 49.032] First text block (len=6, block=ђы=.  )
+[LMYAK, 49.032] First text block length after replacement (len=6)
+[LMYAK, 49.032] Created syntagma (num=0, text=ђы+/, type=<P4>)
+[LMYAK, 49.032] Finish processing text
+[TTS, 49.235] GetSyntagma (num=0)
+	[LMYAK, 49.235] Static
+[LMYAK, 49.235] GetSyntagma (num=0, spell=ђы+/, ph=GH0,Y03,>, type=P4, pcnt=0)
+	[TTS, 49.235] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 49.235] SetSyntagma >,GH0Y03,>, [P4]
+		[LSSP, 49.235] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 49.235] GH0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 49.235] Y03; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 49.235] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 49.235] Processed syntagma (num=0, datalen=28252)
+	[SAPI, 49.235] Stop event passed
+	[SAPI, 50.000] Writed
+	[SAPI, 50.000] Finished
+[TTS, 50.000] GetSyntagma (num=1)
+	[LMYAK, 50.000] Static
+[SAPI, 50.000] ASP thread stopped
+[SAPI, 57.360] Processing speak
+[SAPI, 57.360] Linguistic thread started
+[SAPI, 57.360] Acoustic thread started
+[LMYAK, 57.360] Start processing text
+[LMYAK, 57.360] First text block (len=1, block= )
+[LMYAK, 57.360] First text block length after replacement (len=1)
+[LMYAK, 57.360] Finish processing text
+[TTS, 57.563] GetSyntagma (num=0)
+	[LMYAK, 57.563] Static
+[SAPI, 57.563] ASP thread stopped
+[SAPI, 57.563] Processing speak
+[SAPI, 57.579] Linguistic thread started
+[SAPI, 57.579] Acoustic thread started
+[LMYAK, 57.579] Start processing text
+[LMYAK, 57.579] First text block (len=0, block=)
+[LMYAK, 57.579] First text block length after replacement (len=0)
+[LMYAK, 57.579] Finish processing text
+[TTS, 57.782] GetSyntagma (num=0)
+	[LMYAK, 57.782] Static
+[SAPI, 57.782] ASP thread stopped
+[SAPI, 57.782] Processing speak
+[SAPI, 57.797] Linguistic thread started
+[SAPI, 57.797] Acoustic thread started
+[LMYAK, 57.797] Start processing text
+[LMYAK, 57.797] First text block (len=0, block=)
+[LMYAK, 57.797] First text block length after replacement (len=0)
+[LMYAK, 57.797] Finish processing text
+[TTS, 58.000] GetSyntagma (num=0)
+	[LMYAK, 58.000] Static
+[SAPI, 58.000] ASP thread stopped
+[SAPI, 58.000] Processing speak
+[SAPI, 58.000] Linguistic thread started
+[SAPI, 58.000] Acoustic thread started
+[LMYAK, 58.000] Start processing text
+[LMYAK, 58.000] First text block (len=0, block=)
+[LMYAK, 58.000] First text block length after replacement (len=0)
+[LMYAK, 58.000] Finish processing text
+[TTS, 58.204] GetSyntagma (num=0)
+	[LMYAK, 58.204] Static
+[SAPI, 58.204] ASP thread stopped
+[SAPI, 59.907] Processing speak
+[SAPI, 59.922] Linguistic thread started
+[SAPI, 59.922] Acoustic thread started
+[LMYAK, 59.922] Start processing text
+[LMYAK, 59.922] First text block (len=1, block= )
+[LMYAK, 59.922] First text block length after replacement (len=1)
+[LMYAK, 59.922] Finish processing text
+[TTS, 60.125] GetSyntagma (num=0)
+	[LMYAK, 60.125] Static
+[SAPI, 60.125] ASP thread stopped
+[SAPI, 60.125] Processing speak
+[SAPI, 60.141] Linguistic thread started
+[SAPI, 60.141] Acoustic thread started
+		[MetaInfo, 60.141] Adjusted new MetaInfo in position 5 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 60.141] Start processing text
+[LMYAK, 60.141] First text block (len=7, block=Пробел )
+[LMYAK, 60.141] First text block length after replacement (len=7)
+[LMYAK, 60.141] Finish processing text
+[TTS, 60.344] GetSyntagma (num=0)
+	[LMYAK, 60.344] Static
+[LMYAK, 60.344] GetSyntagma (num=0, spell=пробе+л/, ph=P0,R0,O22,>,B0,J'0,E04,>,L'0, type=C3, pcnt=0)
+	[TTS, 60.344] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 60.344] SetSyntagma >,P0,R0O22,>,B0,J'0E04,>,L'0, [C3]
+		[LSSP, 60.344] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 60.344] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.344] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.344] O22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.344] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.360] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.360] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.360] L'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 60.360] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 60.360] Processed syntagma (num=0, datalen=16581)
+	[SAPI, 60.360] Stop event passed
+	[SAPI, 60.625] Writed
+	[SAPI, 60.625] Finished
+[TTS, 60.625] GetSyntagma (num=1)
+	[LMYAK, 60.625] Static
+[SAPI, 60.625] ASP thread stopped
+[SAPI, 61.344] Processing speak
+[SAPI, 61.344] Linguistic thread started
+[SAPI, 61.344] Acoustic thread started
+[LMYAK, 61.344] Start processing text
+[LMYAK, 61.344] First text block (len=1, block= )
+[LMYAK, 61.344] First text block length after replacement (len=1)
+[LMYAK, 61.344] Finish processing text
+[TTS, 61.547] GetSyntagma (num=0)
+	[LMYAK, 61.547] Static
+[SAPI, 61.547] ASP thread stopped
+[SAPI, 61.547] Processing speak
+[SAPI, 61.563] Linguistic thread started
+[SAPI, 61.563] Acoustic thread started
+		[MetaInfo, 61.563] Adjusted new MetaInfo in position 7 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 61.563] Adjusted new MetaInfo in position 14 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 61.563] Start processing text
+[LMYAK, 61.563] First text block (len=19, block=сымнатыы+ бэлиэ+.  )
+[LMYAK, 61.563] First text block length after replacement (len=19)
+[LMYAK, 61.563] Created syntagma (num=0, text=сымнатыы+/бэлиэ+/, type=<P4>)
+[LMYAK, 61.563] Finish processing text
+[TTS, 61.766] GetSyntagma (num=0)
+	[LMYAK, 61.766] Static
+[LMYAK, 61.766] GetSyntagma (num=0, spell=сымнатыы+/бэлиэ+/, ph=S0,Y22,>,M0,N0,A22,>,T0,YY02,>,/,B0,E21,>,L'0,IE04,>, type=P4, pcnt=0)
+	[TTS, 61.766] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 61.766] SetSyntagma >,S0Y22,>,M0,N0A22,>,T0YY02,>,/,B0E21,>,L'0IE04,>, [P4]
+		[LSSP, 61.766] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 61.766] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.766] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.766] Y22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.782] M0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.782] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.782] A22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.813] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.813] YY02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.829] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.829] E21; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.829] L'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.829] IE04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 61.844] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 61.844] Processed syntagma (num=0, datalen=56356)
+	[SAPI, 61.844] Stop event passed
+	[SAPI, 63.907] Writed
+	[SAPI, 63.907] Finished
+[TTS, 63.907] GetSyntagma (num=1)
+	[LMYAK, 63.907] Static
+[SAPI, 63.907] ASP thread stopped
+[SAPI, 65.016] Processing speak
+[SAPI, 65.032] Linguistic thread started
+[SAPI, 65.032] Acoustic thread started
+[LMYAK, 65.032] Start processing text
+[LMYAK, 65.032] First text block (len=1, block= )
+[LMYAK, 65.032] First text block length after replacement (len=1)
+[LMYAK, 65.032] Finish processing text
+[TTS, 65.235] GetSyntagma (num=0)
+	[LMYAK, 65.235] Static
+[SAPI, 65.235] ASP thread stopped
+[SAPI, 65.235] Processing speak
+[SAPI, 65.250] Linguistic thread started
+[SAPI, 65.250] Acoustic thread started
+		[MetaInfo, 65.250] Adjusted new MetaInfo in position 5 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 65.250] Start processing text
+[LMYAK, 65.250] First text block (len=7, block=Пробел )
+[LMYAK, 65.250] First text block length after replacement (len=7)
+[LMYAK, 65.250] Finish processing text
+[TTS, 65.454] GetSyntagma (num=0)
+	[LMYAK, 65.454] Static
+[LMYAK, 65.454] GetSyntagma (num=0, spell=пробе+л/, ph=P0,R0,O22,>,B0,J'0,E04,>,L'0, type=C3, pcnt=0)
+	[TTS, 65.454] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 65.454] SetSyntagma >,P0,R0O22,>,B0,J'0E04,>,L'0, [C3]
+		[LSSP, 65.454] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 65.454] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.454] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.454] O22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.454] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.469] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.469] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.469] L'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 65.469] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 65.469] Processed syntagma (num=0, datalen=16561)
+	[SAPI, 65.469] Stop event passed
+	[SAPI, 65.735] Writed
+	[SAPI, 65.735] Finished
+[TTS, 65.735] GetSyntagma (num=1)
+	[LMYAK, 65.735] Static
+[SAPI, 65.735] ASP thread stopped
+[SAPI, 66.375] Processing speak
+[SAPI, 66.375] Linguistic thread started
+[SAPI, 66.375] Acoustic thread started
+[LMYAK, 66.375] Start processing text
+[LMYAK, 66.375] First text block (len=1, block= )
+[LMYAK, 66.375] First text block length after replacement (len=1)
+[LMYAK, 66.375] Finish processing text
+[TTS, 66.579] GetSyntagma (num=0)
+	[LMYAK, 66.579] Static
+[SAPI, 66.579] ASP thread stopped
+[SAPI, 66.579] Processing speak
+[SAPI, 66.594] Linguistic thread started
+[SAPI, 66.594] Acoustic thread started
+		[MetaInfo, 66.594] Adjusted new MetaInfo in position 7 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 66.594] Adjusted new MetaInfo in position 14 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 66.594] Start processing text
+[LMYAK, 66.594] First text block (len=19, block=сымнатыы+ бэлиэ+.  )
+[LMYAK, 66.594] First text block length after replacement (len=19)
+[LMYAK, 66.594] Created syntagma (num=0, text=сымнатыы+/бэлиэ+/, type=<P4>)
+[LMYAK, 66.594] Finish processing text
+[TTS, 66.797] GetSyntagma (num=0)
+	[LMYAK, 66.797] Static
+[LMYAK, 66.797] GetSyntagma (num=0, spell=сымнатыы+/бэлиэ+/, ph=S0,Y22,>,M0,N0,A22,>,T0,YY02,>,/,B0,E21,>,L'0,IE04,>, type=P4, pcnt=0)
+	[TTS, 66.797] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 66.797] SetSyntagma >,S0Y22,>,M0,N0A22,>,T0YY02,>,/,B0E21,>,L'0IE04,>, [P4]
+		[LSSP, 66.797] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 66.797] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.797] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.797] Y22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.813] M0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.813] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.813] A22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.829] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.829] YY02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.829] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.829] E21; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.844] L'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.844] IE04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 66.844] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 66.844] Processed syntagma (num=0, datalen=56356)
+	[SAPI, 66.844] Stop event passed
+	[SAPI, 68.907] Writed
+	[SAPI, 68.907] Finished
+[TTS, 68.907] GetSyntagma (num=1)
+	[LMYAK, 68.907] Static
+[SAPI, 68.907] ASP thread stopped
+[SAPI, 118.266] Processing speak
+[SAPI, 118.282] Linguistic thread started
+[SAPI, 118.282] Acoustic thread started
+[LMYAK, 118.282] Start processing text
+[LMYAK, 118.282] First text block (len=1, block= )
+[LMYAK, 118.282] First text block length after replacement (len=1)
+[LMYAK, 118.282] Finish processing text
+[TTS, 118.485] GetSyntagma (num=0)
+	[LMYAK, 118.485] Static
+[SAPI, 118.485] ASP thread stopped
+[SAPI, 118.485] Processing speak
+[SAPI, 118.500] Linguistic thread started
+[SAPI, 118.500] Acoustic thread started
+[LMYAK, 118.500] Start processing text
+[LMYAK, 118.500] First text block (len=0, block=)
+[LMYAK, 118.500] First text block length after replacement (len=0)
+[LMYAK, 118.500] Finish processing text
+[TTS, 118.704] GetSyntagma (num=0)
+	[LMYAK, 118.704] Static
+[SAPI, 118.704] ASP thread stopped
+[SAPI, 118.704] Processing speak
+[SAPI, 118.704] Linguistic thread started
+[SAPI, 118.704] Acoustic thread started
+[LMYAK, 118.704] Start processing text
+[LMYAK, 118.704] First text block (len=0, block=)
+[LMYAK, 118.704] First text block length after replacement (len=0)
+[LMYAK, 118.704] Finish processing text
+[TTS, 118.907] GetSyntagma (num=0)
+	[LMYAK, 118.907] Static
+[SAPI, 118.907] ASP thread stopped
+[SAPI, 118.907] Processing speak
+[SAPI, 118.922] Linguistic thread started
+[SAPI, 118.922] Acoustic thread started
+[LMYAK, 118.922] Start processing text
+[LMYAK, 118.922] First text block (len=0, block=)
+[LMYAK, 118.922] First text block length after replacement (len=0)
+[LMYAK, 118.922] Finish processing text
+[TTS, 119.125] GetSyntagma (num=0)
+	[LMYAK, 119.125] Static
+[SAPI, 119.125] ASP thread stopped
+[SAPI, 121.579] Processing speak
+[SAPI, 121.594] Linguistic thread started
+[SAPI, 121.594] Acoustic thread started
+[LMYAK, 121.594] Start processing text
+[LMYAK, 121.594] First text block (len=1, block= )
+[LMYAK, 121.594] First text block length after replacement (len=1)
+[LMYAK, 121.594] Finish processing text
+[TTS, 121.782] GetSyntagma (num=0)
+	[LMYAK, 121.782] Static
+[SAPI, 121.782] ASP thread stopped
+[SAPI, 121.797] Processing speak
+[SAPI, 121.797] Linguistic thread started
+[SAPI, 121.797] Acoustic thread started
+		[MetaInfo, 121.797] Adjusted new MetaInfo in position 0 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 121.797] Adjusted new MetaInfo in position 2 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 121.797] Start processing text
+[LMYAK, 121.797] First text block (len=6, block=ы=њ.  )
+[LMYAK, 121.797] First text block length after replacement (len=6)
+[LMYAK, 121.797] Created syntagma (num=0, text=ы+њ/, type=<P4>)
+[LMYAK, 121.797] Finish processing text
+[TTS, 122.000] GetSyntagma (num=0)
+	[LMYAK, 122.000] Static
+[LMYAK, 122.000] GetSyntagma (num=0, spell=ы+њ/, ph=Y00,>,NG0, type=P4, pcnt=0)
+	[TTS, 122.000] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 122.000] SetSyntagma >,Y00,>,NG0, [P4]
+		[LSSP, 122.000] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 122.000] Y00; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 122.016] NG0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 122.016] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 122.016] Processed syntagma (num=0, datalen=27359)
+	[SAPI, 122.016] Stop event passed
+	[SAPI, 122.719] Writed
+	[SAPI, 122.719] Finished
+[TTS, 122.719] GetSyntagma (num=1)
+	[LMYAK, 122.719] Static
+[SAPI, 122.719] ASP thread stopped
+[SAPI, 123.235] Processing speak
+[SAPI, 123.235] Linguistic thread started
+[SAPI, 123.235] Acoustic thread started
+[LMYAK, 123.235] Start processing text
+[LMYAK, 123.235] First text block (len=1, block= )
+[LMYAK, 123.235] First text block length after replacement (len=1)
+[LMYAK, 123.235] Finish processing text
+[TTS, 123.438] GetSyntagma (num=0)
+	[LMYAK, 123.438] Static
+[SAPI, 123.438] ASP thread stopped
+[SAPI, 123.438] Processing speak
+[SAPI, 123.454] Linguistic thread started
+[SAPI, 123.454] Acoustic thread started
+		[MetaInfo, 123.454] Adjusted new MetaInfo in position 4 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 123.454] Adjusted new MetaInfo in position 11 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 123.454] Start processing text
+[LMYAK, 123.454] First text block (len=13, block=Конец текста )
+[LMYAK, 123.454] First text block length after replacement (len=13)
+[LMYAK, 123.454] Finish processing text
+[TTS, 123.657] GetSyntagma (num=0)
+	[LMYAK, 123.657] Static
+[LMYAK, 123.657] GetSyntagma (num=0, spell=коне+ц/текста+/, ph=K0,O23,>,N0,J'0,E04,>,CH'0,/,T0,J'0,E24,>,K0,S0,T0,A02,>, type=C3, pcnt=0)
+	[TTS, 123.657] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 123.657] SetSyntagma >,K0O23,>,N0,J'0E04,>,CH'0,/,T0,J'0E24,>,K0,S0,T0A02,>, [C3]
+		[LSSP, 123.657] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 123.672] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.672] O23; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.672] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.672] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.672] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.672] CH'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.672] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] E24; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] A02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 123.688] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 123.688] Processed syntagma (num=0, datalen=36077)
+	[SAPI, 123.688] Stop event passed
+	[SAPI, 124.250] Writed
+	[SAPI, 124.250] Finished
+[TTS, 124.250] GetSyntagma (num=1)
+	[LMYAK, 124.250] Static
+[SAPI, 124.250] ASP thread stopped
+[SAPI, 124.266] Processing speak
+[SAPI, 124.266] Linguistic thread started
+[SAPI, 124.266] Acoustic thread started
+[LMYAK, 124.266] Start processing text
+[LMYAK, 124.266] First text block (len=1, block= )
+[LMYAK, 124.266] First text block length after replacement (len=1)
+[LMYAK, 124.266] Finish processing text
+[TTS, 124.469] GetSyntagma (num=0)
+	[LMYAK, 124.469] Static
+[SAPI, 124.469] ASP thread stopped
+[SAPI, 124.469] Processing speak
+[SAPI, 124.485] Linguistic thread started
+[SAPI, 124.485] Acoustic thread started
+		[MetaInfo, 124.485] Adjusted new MetaInfo in position 0 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 124.485] Adjusted new MetaInfo in position 2 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 124.485] Start processing text
+[LMYAK, 124.485] First text block (len=6, block=ы=њ.  )
+[LMYAK, 124.485] First text block length after replacement (len=6)
+[LMYAK, 124.485] Created syntagma (num=0, text=ы+њ/, type=<P4>)
+[LMYAK, 124.485] Finish processing text
+[TTS, 124.688] GetSyntagma (num=0)
+	[LMYAK, 124.688] Static
+[LMYAK, 124.688] GetSyntagma (num=0, spell=ы+њ/, ph=Y00,>,NG0, type=P4, pcnt=0)
+	[TTS, 124.688] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 124.688] SetSyntagma >,Y00,>,NG0, [P4]
+		[LSSP, 124.688] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 124.688] Y00; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 124.688] NG0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 124.688] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 124.688] Processed syntagma (num=0, datalen=27368)
+	[SAPI, 124.688] Stop event passed
+	[SAPI, 125.407] Writed
+	[SAPI, 125.407] Finished
+[TTS, 125.407] GetSyntagma (num=1)
+	[LMYAK, 125.407] Static
+[SAPI, 125.407] ASP thread stopped
+[SAPI, 135.688] Processing speak
+[SAPI, 135.704] Linguistic thread started
+[SAPI, 135.704] Acoustic thread started
+[LMYAK, 135.704] Start processing text
+[LMYAK, 135.704] First text block (len=1, block= )
+[LMYAK, 135.704] First text block length after replacement (len=1)
+[LMYAK, 135.704] Finish processing text
+[TTS, 135.891] GetSyntagma (num=0)
+	[LMYAK, 135.891] Static
+[SAPI, 135.891] ASP thread stopped
+[SAPI, 135.907] Processing speak
+[SAPI, 135.907] Linguistic thread started
+[SAPI, 135.907] Acoustic thread started
+[LMYAK, 135.907] Start processing text
+[LMYAK, 135.907] First text block (len=0, block=)
+[LMYAK, 135.907] First text block length after replacement (len=0)
+[LMYAK, 135.907] Finish processing text
+[TTS, 136.110] GetSyntagma (num=0)
+	[LMYAK, 136.110] Static
+[SAPI, 136.110] ASP thread stopped
+[SAPI, 136.110] Processing speak
+[SAPI, 136.125] Linguistic thread started
+[SAPI, 136.125] Acoustic thread started
+[LMYAK, 136.125] Start processing text
+[LMYAK, 136.125] First text block (len=0, block=)
+[LMYAK, 136.125] First text block length after replacement (len=0)
+[LMYAK, 136.125] Finish processing text
+[TTS, 136.329] GetSyntagma (num=0)
+	[LMYAK, 136.329] Static
+[SAPI, 136.329] ASP thread stopped
+[SAPI, 136.329] Processing speak
+[SAPI, 136.344] Linguistic thread started
+[SAPI, 136.344] Acoustic thread started
+[LMYAK, 136.344] Start processing text
+[LMYAK, 136.344] First text block (len=0, block=)
+[LMYAK, 136.344] First text block length after replacement (len=0)
+[LMYAK, 136.344] Finish processing text
+[TTS, 136.532] GetSyntagma (num=0)
+	[LMYAK, 136.532] Static
+[SAPI, 136.532] ASP thread stopped
+[SAPI, 137.875] Processing speak
+[SAPI, 137.891] Linguistic thread started
+[SAPI, 137.891] Acoustic thread started
+[LMYAK, 137.891] Start processing text
+[LMYAK, 137.891] First text block (len=1, block= )
+[LMYAK, 137.891] First text block length after replacement (len=1)
+[LMYAK, 137.891] Finish processing text
+[TTS, 138.094] GetSyntagma (num=0)
+	[LMYAK, 138.094] Static
+[SAPI, 138.094] ASP thread stopped
+[SAPI, 138.094] Processing speak
+[SAPI, 138.110] Linguistic thread started
+[SAPI, 138.110] Acoustic thread started
+		[MetaInfo, 138.110] Adjusted new MetaInfo in position 0 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 138.110] Start processing text
+[LMYAK, 138.110] First text block (len=5, block=є=.  )
+[LMYAK, 138.110] First text block length after replacement (len=5)
+[LMYAK, 138.110] Created syntagma (num=0, text=є+/, type=<P4>)
+[LMYAK, 138.110] Finish processing text
+[TTS, 138.313] GetSyntagma (num=0)
+	[LMYAK, 138.313] Static
+[LMYAK, 138.313] GetSyntagma (num=0, spell=є+/, ph=O'00,>, type=P4, pcnt=0)
+	[TTS, 138.313] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 138.313] SetSyntagma >,O'00,>, [P4]
+		[LSSP, 138.313] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 138.329] O'00; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 138.329] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 138.329] Processed syntagma (num=0, datalen=27713)
+	[SAPI, 138.329] Stop event passed
+	[SAPI, 139.079] Writed
+	[SAPI, 139.079] Finished
+[TTS, 139.079] GetSyntagma (num=1)
+	[LMYAK, 139.079] Static
+[SAPI, 139.079] ASP thread stopped
+[SAPI, 147.125] Processing speak
+[SAPI, 147.141] Linguistic thread started
+[SAPI, 147.141] Acoustic thread started
+[LMYAK, 147.141] Start processing text
+[LMYAK, 147.141] First text block (len=1, block= )
+[LMYAK, 147.141] First text block length after replacement (len=1)
+[LMYAK, 147.141] Finish processing text
+[TTS, 147.329] GetSyntagma (num=0)
+	[LMYAK, 147.329] Static
+[SAPI, 147.329] ASP thread stopped
+[SAPI, 147.344] Processing speak
+[SAPI, 147.344] Linguistic thread started
+[SAPI, 147.344] Acoustic thread started
+[LMYAK, 147.344] Start processing text
+[LMYAK, 147.344] First text block (len=0, block=)
+[LMYAK, 147.344] First text block length after replacement (len=0)
+[LMYAK, 147.344] Finish processing text
+[TTS, 147.547] GetSyntagma (num=0)
+	[LMYAK, 147.547] Static
+[SAPI, 147.547] ASP thread stopped
+[SAPI, 147.547] Processing speak
+[SAPI, 147.563] Linguistic thread started
+[SAPI, 147.563] Acoustic thread started
+[LMYAK, 147.563] Start processing text
+[LMYAK, 147.563] First text block (len=0, block=)
+[LMYAK, 147.563] First text block length after replacement (len=0)
+[LMYAK, 147.563] Finish processing text
+[TTS, 147.766] GetSyntagma (num=0)
+	[LMYAK, 147.766] Static
+[SAPI, 147.766] ASP thread stopped
+[SAPI, 147.766] Processing speak
+[SAPI, 147.782] Linguistic thread started
+[SAPI, 147.782] Acoustic thread started
+[LMYAK, 147.782] Start processing text
+[LMYAK, 147.782] First text block (len=0, block=)
+[LMYAK, 147.782] First text block length after replacement (len=0)
+[LMYAK, 147.782] Finish processing text
+[TTS, 147.969] GetSyntagma (num=0)
+	[LMYAK, 147.969] Static
+[SAPI, 147.969] ASP thread stopped
+[SAPI, 149.360] Processing speak
+[SAPI, 149.360] Linguistic thread started
+[SAPI, 149.360] Acoustic thread started
+[LMYAK, 149.360] Start processing text
+[LMYAK, 149.360] First text block (len=1, block= )
+[LMYAK, 149.360] First text block length after replacement (len=1)
+[LMYAK, 149.360] Finish processing text
+[TTS, 149.563] GetSyntagma (num=0)
+	[LMYAK, 149.563] Static
+[SAPI, 149.563] ASP thread stopped
+[SAPI, 149.563] Processing speak
+[SAPI, 149.579] Linguistic thread started
+[SAPI, 149.579] Acoustic thread started
+		[MetaInfo, 149.579] Adjusted new MetaInfo in position 5 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 149.579] Start processing text
+[LMYAK, 149.579] First text block (len=7, block=Пробел )
+[LMYAK, 149.579] First text block length after replacement (len=7)
+[LMYAK, 149.579] Finish processing text
+[TTS, 149.782] GetSyntagma (num=0)
+	[LMYAK, 149.782] Static
+[LMYAK, 149.782] GetSyntagma (num=0, spell=пробе+л/, ph=P0,R0,O22,>,B0,J'0,E04,>,L'0, type=C3, pcnt=0)
+	[TTS, 149.782] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 149.782] SetSyntagma >,P0,R0O22,>,B0,J'0E04,>,L'0, [C3]
+		[LSSP, 149.782] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 149.782] P0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.782] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.782] O22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.797] B0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.797] J'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.797] E04; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.797] L'0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 149.797] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 149.797] Processed syntagma (num=0, datalen=16561)
+	[SAPI, 149.797] Stop event passed
+	[SAPI, 150.063] Writed
+	[SAPI, 150.063] Finished
+[TTS, 150.063] GetSyntagma (num=1)
+	[LMYAK, 150.063] Static
+[SAPI, 150.063] ASP thread stopped
+[SAPI, 150.422] Processing speak
+[SAPI, 150.438] Linguistic thread started
+[SAPI, 150.438] Acoustic thread started
+[LMYAK, 150.438] Start processing text
+[LMYAK, 150.438] First text block (len=1, block= )
+[LMYAK, 150.438] First text block length after replacement (len=1)
+[LMYAK, 150.438] Finish processing text
+[TTS, 150.641] GetSyntagma (num=0)
+	[LMYAK, 150.641] Static
+[SAPI, 150.641] ASP thread stopped
+[SAPI, 150.641] Processing speak
+[SAPI, 150.657] Linguistic thread started
+[SAPI, 150.657] Acoustic thread started
+		[MetaInfo, 150.657] Adjusted new MetaInfo in position 1 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 150.657] Start processing text
+[LMYAK, 150.657] First text block (len=6, block=ћы=.  )
+[LMYAK, 150.657] First text block length after replacement (len=6)
+[LMYAK, 150.657] Created syntagma (num=0, text=ћы+/, type=<P4>)
+[LMYAK, 150.657] Finish processing text
+[TTS, 150.860] GetSyntagma (num=0)
+	[LMYAK, 150.860] Static
+[LMYAK, 150.860] GetSyntagma (num=0, spell=ћы+/, ph=HX0,Y03,>, type=P4, pcnt=0)
+	[TTS, 150.860] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 150.860] SetSyntagma >,HX0Y03,>, [P4]
+		[LSSP, 150.860] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 150.860] HX0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 150.860] Y03; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 150.860] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 150.860] Processed syntagma (num=0, datalen=29758)
+	[SAPI, 150.860] Stop event passed
+	[SAPI, 151.672] Writed
+	[SAPI, 151.672] Finished
+[TTS, 151.672] GetSyntagma (num=1)
+	[LMYAK, 151.672] Static
+[SAPI, 151.688] ASP thread stopped
+[SAPI, 159.000] Processing speak
+[SAPI, 159.000] Linguistic thread started
+[SAPI, 159.000] Acoustic thread started
+[LMYAK, 159.000] Start processing text
+[LMYAK, 159.000] First text block (len=1, block= )
+[LMYAK, 159.000] First text block length after replacement (len=1)
+[LMYAK, 159.000] Finish processing text
+[TTS, 159.204] GetSyntagma (num=0)
+	[LMYAK, 159.204] Static
+[SAPI, 159.204] ASP thread stopped
+[SAPI, 159.204] Processing speak
+[SAPI, 159.219] Linguistic thread started
+[SAPI, 159.219] Acoustic thread started
+[LMYAK, 159.219] Start processing text
+[LMYAK, 159.219] First text block (len=0, block=)
+[LMYAK, 159.219] First text block length after replacement (len=0)
+[LMYAK, 159.219] Finish processing text
+[TTS, 159.422] GetSyntagma (num=0)
+	[LMYAK, 159.422] Static
+[SAPI, 159.422] ASP thread stopped
+[SAPI, 159.422] Processing speak
+[SAPI, 159.438] Linguistic thread started
+[SAPI, 159.438] Acoustic thread started
+[LMYAK, 159.438] Start processing text
+[LMYAK, 159.438] First text block (len=0, block=)
+[LMYAK, 159.438] First text block length after replacement (len=0)
+[LMYAK, 159.438] Finish processing text
+[TTS, 159.641] GetSyntagma (num=0)
+	[LMYAK, 159.641] Static
+[SAPI, 159.641] ASP thread stopped
+[SAPI, 159.641] Processing speak
+[SAPI, 159.641] Linguistic thread started
+[SAPI, 159.641] Acoustic thread started
+[LMYAK, 159.641] Start processing text
+[LMYAK, 159.641] First text block (len=0, block=)
+[LMYAK, 159.641] First text block length after replacement (len=0)
+[LMYAK, 159.641] Finish processing text
+[TTS, 159.844] GetSyntagma (num=0)
+	[LMYAK, 159.844] Static
+[SAPI, 159.844] ASP thread stopped
+[SAPI, 161.110] Processing speak
+[SAPI, 161.125] Linguistic thread started
+[SAPI, 161.125] Acoustic thread started
+[LMYAK, 161.125] Start processing text
+[LMYAK, 161.125] First text block (len=1, block= )
+[LMYAK, 161.125] First text block length after replacement (len=1)
+[LMYAK, 161.125] Finish processing text
+[TTS, 161.329] GetSyntagma (num=0)
+	[LMYAK, 161.329] Static
+[SAPI, 161.329] ASP thread stopped
+[SAPI, 161.329] Processing speak
+[SAPI, 161.344] Linguistic thread started
+[SAPI, 161.344] Acoustic thread started
+		[MetaInfo, 161.344] Adjusted new MetaInfo in position 0 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 161.344] Start processing text
+[LMYAK, 161.344] First text block (len=5, block=ї=.  )
+[LMYAK, 161.344] First text block length after replacement (len=5)
+[LMYAK, 161.344] Created syntagma (num=0, text=ї+/, type=<P4>)
+[LMYAK, 161.344] Finish processing text
+[TTS, 161.532] GetSyntagma (num=0)
+	[LMYAK, 161.532] Static
+[LMYAK, 161.532] GetSyntagma (num=0, spell=ї+/, ph=U'00,>, type=P4, pcnt=0)
+	[TTS, 161.532] GetPreliminarySyntagma (num=0, type=P4)
+[LSSP, 161.532] SetSyntagma >,U'00,>, [P4]
+		[LSSP, 161.532] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 161.547] U'00; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 161.547] #P4; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 161.547] Processed syntagma (num=0, datalen=29307)
+	[SAPI, 161.547] Stop event passed
+	[SAPI, 162.360] Writed
+	[SAPI, 162.360] Finished
+[TTS, 162.360] GetSyntagma (num=1)
+	[LMYAK, 162.360] Static
+[SAPI, 162.360] ASP thread stopped
+[SAPI, 172.594] Processing speak
+[SAPI, 172.610] Linguistic thread started
+[SAPI, 172.610] Acoustic thread started
+		[MetaInfo, 172.610] Adjusted new MetaInfo in position 6 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+		[MetaInfo, 172.610] Adjusted new MetaInfo in position 13 in syntagma -1; New MetaInfo data are: vol=-1, frq0=-1000, dfrq=-1, flags=00000001
+[LMYAK, 172.610] Start processing text
+[LMYAK, 172.610] First text block (len=15, block=Диктант закрыт )
+[LMYAK, 172.610] First text block length after replacement (len=15)
+[LMYAK, 172.610] Finish processing text
+[TTS, 172.797] GetSyntagma (num=0)
+	[LMYAK, 172.797] Static
+[LMYAK, 172.797] GetSyntagma (num=0, spell=дикта+нт/закры+т/, ph=D0,I22,>,K0,T0,A02,>,N0,T0,/,S0,A22,>,K0,R0,Y02,>,T0, type=C3, pcnt=0)
+	[TTS, 172.797] GetPreliminarySyntagma (num=0, type=C3)
+[LSSP, 172.797] SetSyntagma >,D0I22,>,K0,T0A02,>,N0,T0,/,S0A22,>,K0,R0Y02,>,T0, [C3]
+		[LSSP, 172.797] ALLOPHONE; Ellongation K0 = NAE*POZAE*NSYL*NWORD*INT; Compliance extension Vx; Total FORMULA
+		[LSSP, 172.813] D0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.813] I22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.813] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.813] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.813] A02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.829] N0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.829] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.829] S0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.829] A22; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.829] K0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.844] R0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.844] Y02; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.844] T0; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 0.000; Total 1.000 = 1.000*((1.000-1)*0.000+1)
+		[LSSP, 172.844] #C3; Ellongation 1.000 = 1.000*1.000*1.000*1.000*1.000; Compliance extension 1.500; Total 1.000 = 1.000*((1.000-1)*1.500+1)
+[SAPI, 172.844] Processed syntagma (num=0, datalen=35262)
+	[SAPI, 172.844] Stop event passed
+	[SAPI, 173.907] Writed
+	[SAPI, 173.907] Finished
+[TTS, 173.907] GetSyntagma (num=1)
+	[LMYAK, 173.907] Static
+[SAPI, 173.907] ASP thread stopped

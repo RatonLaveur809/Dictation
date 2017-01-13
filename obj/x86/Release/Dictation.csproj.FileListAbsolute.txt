@@ -1,0 +1,12 @@
+G:\Работа\Dictation\Dictation\bin\Release\Dictation.exe
+G:\Работа\Dictation\Dictation\bin\Release\Dictation.pdb
+G:\Работа\Dictation\Dictation\bin\Release\Interop.SpeechLib.dll
+G:\Работа\Dictation\Dictation\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Работа\Dictation\Dictation\obj\x86\Release\Interop.SpeechLib.dll
+G:\Работа\Dictation\Dictation\obj\x86\Release\Dictation.csproj.ResolveComReference.cache
+G:\Работа\Dictation\Dictation\obj\x86\Release\Dictation.Form1.resources
+G:\Работа\Dictation\Dictation\obj\x86\Release\Dictation.Properties.Resources.resources
+G:\Работа\Dictation\Dictation\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+G:\Работа\Dictation\Dictation\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+G:\Работа\Dictation\Dictation\obj\x86\Release\Dictation.exe
+G:\Работа\Dictation\Dictation\obj\x86\Release\Dictation.pdb

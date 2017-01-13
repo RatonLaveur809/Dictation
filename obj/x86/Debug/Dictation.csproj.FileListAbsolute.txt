@@ -1,0 +1,82 @@
+G:\Работа\Dictation\Dictation\bin\Debug\Dictation.exe
+G:\Работа\Dictation\Dictation\bin\Debug\Dictation.pdb
+G:\Работа\Dictation\Dictation\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Работа\Dictation\Dictation\obj\x86\Debug\Dictation.Form1.resources
+G:\Работа\Dictation\Dictation\obj\x86\Debug\Dictation.Properties.Resources.resources
+G:\Работа\Dictation\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Работа\Dictation\Dictation\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Работа\Dictation\Dictation\obj\x86\Debug\Dictation.exe
+G:\Работа\Dictation\Dictation\obj\x86\Debug\Dictation.pdb
+G:\Работа\Dictation\Dictation\obj\x86\Debug\Interop.SpeechLib.dll
+G:\Работа\Dictation\Dictation\obj\x86\Debug\Dictation.csproj.ResolveComReference.cache
+G:\Работа\Dictation\Dictation\bin\Debug\Interop.SpeechLib.dll
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\Dictation.csproj.ResolveComReference.cache
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\Dictation.exe
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\Dictation.pdb
+F:\Work\Projects\Dictation\Dictation\bin\Debug\Dictation.exe
+F:\Work\Projects\Dictation\Dictation\bin\Debug\Dictation.pdb
+F:\Work\Projects\Dictation\Dictation\bin\Debug\Interop.SpeechLib.dll
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\Dictation.Form1.resources
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\Dictation.Properties.Resources.resources
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Work\Projects\Dictation\Dictation\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\Interop.SpeechLib.dll
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\Dictation.csproj.ResolveComReference.cache
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\Dictation.exe
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\Dictation.pdb
+F:\AWP\Dictation Brail\Dictation\bin\Debug\Dictation.exe
+F:\AWP\Dictation Brail\Dictation\bin\Debug\Dictation.pdb
+F:\AWP\Dictation Brail\Dictation\bin\Debug\Interop.SpeechLib.dll
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\Dictation.Form1.resources
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\Dictation.Properties.Resources.resources
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\AWP\Dictation Brail\Dictation\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Dictation Brail\Dictation\obj\x86\Debug\Interop.SpeechLib.dll
+I:\Dictation Brail\Dictation\obj\x86\Debug\Dictation.csproj.ResolveComReference.cache
+I:\Dictation Brail\Dictation\obj\x86\Debug\Dictation.exe
+I:\Dictation Brail\Dictation\obj\x86\Debug\Dictation.pdb
+I:\Dictation Brail\Dictation\bin\Debug\Dictation.exe
+I:\Dictation Brail\Dictation\bin\Debug\Dictation.pdb
+I:\Dictation Brail\Dictation\bin\Debug\Interop.SpeechLib.dll
+I:\Dictation Brail\Dictation\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Dictation Brail\Dictation\obj\x86\Debug\Dictation.Form1.resources
+I:\Dictation Brail\Dictation\obj\x86\Debug\Dictation.Properties.Resources.resources
+I:\Dictation Brail\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Dictation Brail\Dictation\obj\x86\Debug\ResGen.read.1.tlog
+I:\Dictation Brail\Dictation\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Dictation Brail\Dictation\obj\x86\Debug\ResGen.write.1.tlog
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Dictation.csproj.ResolveComReference.cache
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Dictation.exe
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Dictation.pdb
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\bin\Debug\Dictation.exe
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\bin\Debug\Dictation.pdb
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\bin\Debug\Interop.SpeechLib.dll
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Dictation.Form1.resources
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Dictation.Properties.Resources.resources
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\Dictation.SetVoiceForm.resources
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\ResGen.read.1.tlog
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Raccoon's programs\проги\_Dictation_new\Dictation\obj\x86\Debug\ResGen.write.1.tlog
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Dictation.csproj.ResolveComReference.cache
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Dictation.exe
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Dictation.pdb
+F:\Raccoon's programs\проги\Dictation_new\Dictation\bin\Debug\Dictation.exe
+F:\Raccoon's programs\проги\Dictation_new\Dictation\bin\Debug\Dictation.pdb
+F:\Raccoon's programs\проги\Dictation_new\Dictation\bin\Debug\Interop.SpeechLib.dll
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Dictation.Form1.resources
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Dictation.Properties.Resources.resources
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\Dictation.SetVoiceForm.resources
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\ResGen.read.1.tlog
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Raccoon's programs\проги\Dictation_new\Dictation\obj\x86\Debug\ResGen.write.1.tlog
